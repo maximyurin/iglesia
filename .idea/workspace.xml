@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97381deb-0fdc-4e0f-a002-59d2aee5d533" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/1col.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/2cl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/2cr.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/adv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/aletheme_icon_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/aletheme_icon_16_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/aletheme_icon_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/coloradmin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_hex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_hsb_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_hsb_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_hsb_s.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_indic.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_rgb_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_rgb_g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_rgb_r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_select.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/colorpicker_submit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/colorpicker/select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/grid-h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/grid-v.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/grid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ico-delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/post_type_icons/award.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/post_type_icons/diary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/post_type_icons/event.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/post_type_icons/gallery.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/post_type_icons/press.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/post_type_icons/team.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/post_type_icons/video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/side.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/slide-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/slider-no-image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/social.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/typo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/images/alert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/images/toggles/toggle-closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/images/toggles/toggle-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lang/en_EN.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/iglesia.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Licensing/GPL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Licensing/README_License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/css/admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/admin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/jquery.timePicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/metaboxes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/of-medialibrary-uploader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/options-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/shortcodes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/shortcodes.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/sliders.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/assets/js/widgets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/constants.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/etc/activation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/etc/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/etc/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/etc/front.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/etc/media.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/etc/nav.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/etc/shortcodes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/etc/system.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/functions/general.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/functions/images_media.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/functions/import_export.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/functions/like_sys.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/functions/social.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/functions/text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/functions/tgm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/init.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/metaboxes/metaboxes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/options/admin/options-framework.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/options/admin/options-interface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/options/admin/options-medialibrary-uploader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/options/admin/options-sanitize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/options/options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/ale-shortcodes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/js/ale-shortcodes-lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/shortcodes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/shortcodes.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/css/popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/get_wp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/js/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/js/jquery.appendo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/js/jquery.livequery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/js/popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/js/popup.old.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/plugin.old.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/popup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/shortcodes/tinymce/shortcodes.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/sliders/pages/edit-slider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/sliders/pages/manage-sliders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/sliders/sliders.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/widgets/widget-about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/widgets/widget-blog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/widgets/widget-flickr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/widgets/widget-gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/widgets/widget-mostcommented.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aletheme/widgets/widgets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive-gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attachment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/author.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/elements.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/general.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/touch.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editor-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/jquery.fancybox-1.3.4.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/jquery.jscrollpane.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/modernizr-2.5.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/libs/scrollable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lang/en_EN.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page-home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/archives.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/css-option.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/notfound.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/pagefooter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/pagehead.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/postcontent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/postfooter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/postfull.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/posthead.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/postline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/postpreview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/searchform.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sidebar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taxonomy-gallery-category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-award.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-press.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wpml-config.xml" />
+    </list>
+    <ignored path="iglesia.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path=".idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="iglesia" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/../../../wp-config.php" />
+        <option value="$PROJECT_DIR$/aletheme/widgets/widget-about.php" />
+        <option value="$PROJECT_DIR$/aletheme/widgets/widget-blog.php" />
+        <option value="$PROJECT_DIR$/aletheme/widgets/widget-flickr.php" />
+        <option value="$PROJECT_DIR$/aletheme/widgets/widget-gallery.php" />
+        <option value="$PROJECT_DIR$/aletheme/widgets/widget-mostcommented.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iglesia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iglesia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iglesia" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97381deb-0fdc-4e0f-a002-59d2aee5d533" name="Default" comment="" />
+      <created>1498855892949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498855892949</updated>
+      <workItem from="1498855894454" duration="673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="673000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1924" height="1040" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aletheme/widgets/widget-about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aletheme/widgets/widget-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aletheme/widgets/widget-flickr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aletheme/widgets/widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aletheme/widgets/widget-mostcommented.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aletheme/widgets/widget-gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
