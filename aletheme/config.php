@@ -184,57 +184,18 @@ function aletheme_get_options() {
 						"id" => "ale_fb",
 						"std" => "",
 						"type" => "text");
-    $options[] = array( "name" => "Google+",
-                        "desc" => "Your google+ profile URL.",
-                        "id" => "ale_gog",
-                        "std" => "",
-                        "type" => "text");
-    $options[] = array( "name" => "Pinterest",
-                        "desc" => "Your pinteres profile URL.",
-                        "id" => "ale_pint",
-                        "std" => "",
-                        "type" => "text");
-    $options[] = array( "name" => "Flickr",
-                        "desc" => "Your flickr profile URL.",
-                        "id" => "ale_flickr",
-                        "std" => "",
-                        "type" => "text");
-    $options[] = array( "name" => "Linkedin",
-                        "desc" => "Your linked profile URL.",
-                        "id" => "ale_linked",
-                        "std" => "",
-                        "type" => "text");
     $options[] = array( "name" => "Instagram",
                         "desc" => "Your instagram profile URL.",
                         "id" => "ale_insta",
                         "std" => "",
                         "type" => "text");
-    $options[] = array( "name" => "Email",
-                        "desc" => "Your email",
-                        "id" => "ale_emailcont",
+    $options[] = array( "name" => "Youtube",
+                        "desc" => "Your YouTube Link",
+                        "id" => "ale_yt",
                         "std" => "",
                         "type" => "text");
-    $options[] = array( "name" => "Show RSS",
-                        "desc" => "Check if you want to show the RSS icon on your site",
-                        "id" => "ale_rssicon",
-                        "std" => "1",
-                        "type" => "checkbox");
-
-	
-	$options[] = array( "name" => "Facebook Application ID",
-						"desc" => "If you have Application ID you can connect the blog to your Facebook Profile and monitor statistics there.",
-						"id" => "ale_fb_id",
-						"std" => "",
-						"type" => "text");
-	
-	$options[] = array( "name" => "Enable Open Graph",
-						"desc" => "The <a href=\"http://www.ogp.me/\">Open Graph</a> protocol enables any web page to become a rich object in a social graph.",
-						"id" => "ale_og_enabled",
-						"std" => "",
-						"type" => "checkbox");
 
 
-	
 	$options[] = array( "name" => "Advanced Settings",
 						"type" => "heading");
 
