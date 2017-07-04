@@ -3,14 +3,15 @@
   * Template name: Home
   * */
 ?>
+
 <?php get_header(); ?>
 
- <section class="home_slider">
+ <section class="home_slider cf">
     <div class="flexslider">
         <ul class="slides">
             <?php $slider = ale_sliders_get_slider(ale_get_option('homesliderslug')); ?>
             <?php if($slider):?>
-            <?php foreach ($slider['slides'] as $slide) : ?>
+            <?php foreach ($slider['slides'] as $slide):?>
                     <li>
                         <figure>
                             <?php if($slide['image']) : ?>
@@ -29,7 +30,6 @@
             <?php endif; ?>
         </ul>
     </div>
-
  </section>
 
 <?php get_footer(); ?>
