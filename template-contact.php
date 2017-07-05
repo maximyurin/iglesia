@@ -9,19 +9,38 @@ if (isset($_POST['contact'])) {
 get_header();
 ?>
     <!-- Content -->
+    <div class="container">
+        <div class="wrapper">
+            <h2 class="page_title">Contact</h2>
+            <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+                <div class="page_content">
+                    <?php the_content(); ?>
+                </div>
+            <?php endwhile; endif; ?>
+            <div class="contacts_data cf">
+                <div class="third_part">
+                    <span class="lable"><i class="fa fa-phone" aria-hidden="true"></i><?php echo ale_get_meta('phone_lable'); ?></span>
+                    <span class="value phone_number"><?php echo ale_get_meta('phone_number'); ?></span>
+                </div>
+                <div class="third_part">
+                    <span class="lable"><i class="fa fa-globe" aria-hidden="true"></i><?php echo ale_get_meta('address_lable'); ?></span>
+                    <span class="value"><?php echo ale_get_meta('address'); ?></span>
+                </div>
+                <div class="third_part email_box">
+                    <span class="lable"><i class="fa fa-envelope-o" aria-hidden="true"></i><?php echo ale_get_meta('email_lable'); ?></span>
+                    <span class="value"><a href="mailto:<?php echo ale_get_meta('email'); ?>"><?php echo ale_get_meta('email'); ?></a></span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
     <div class="contacts-center">
         <div class="content">
 
             <div class="h2" ><?php the_title(); ?></div>
 
             <div class="contact-content">
-                <div class="left">
-                    <div class="contacts">
-                        <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
-                            <?php the_content(); ?>
-                        <?php endwhile; endif; ?>
-                    </div>
-                </div>
 
                 <div class="right">
                     <form method="post" action="<?php the_permalink();?>">
