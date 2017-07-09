@@ -129,32 +129,46 @@ function aletheme_get_options() {
                         "type" => "heading");
 
     $options[] = array( "name" => "Select the body Font from Google Library",
-                        "desc" => "The default Font is - Raleway",
+                        "desc" => "The default Font is -- Droid Serif",
                         "id" => "ale_headerfont",
-                        "std" => "Raleway",
+                        "std" => "Droid+Serif",
                         "type" => "select",
                         "options" => $headerfont);
 
     $options[] = array( "name" => "Select the body Font (Extended) from Google Library",
-                        "desc" => "The default Font (extended) is - 600",
+                        "desc" => "The default Font (extended)",
                         "id" => "ale_headerfontex",
-                        "std" => "600",
+                        "std" => "400,400i,700,700i",
                         "type" => "text",
                         );
 
     $options[] = array( "name" => "Select the Headers Font from Google Library",
-                        "desc" => "The default Font is - Libre Baskerville",
+                        "desc" => "The default Font is - Playfair Display+SC",
                         "id" => "ale_mainfont",
-                        "std" => "Libre+Baskerville",
+                        "std" => "Playfair+Display+SC",
                         "type" => "select",
                         "options" => $headerfont);
 
     $options[] = array( "name" => "Select the Headers Font (Extended) from Google Library",
-                        "desc" => "The default Font (extended) is - 400,400italic",
+                        "desc" => "The default Font (extended)",
                         "id" => "ale_mainfontex",
-                        "std" => "400,400italic",
+                        "std" => "400,400i,700,700i,900,900i",
                         "type" => "text",
                         );
+
+    $options[] = array( "name" => "Select the Headers Font from Google Library",
+                        "desc" => "The default Font is - Playfair Display",
+                        "id" => "ale_thirdfont",
+                        "std" => "Playfair+Display",
+                        "type" => "select",
+                        "options" => $headerfont);
+
+    $options[] = array( "name" => "Select the Headers Font (Extended) from Google Library",
+                        "desc" => "The default Font (extended)",
+                        "id" => "ale_thirdfontex",
+                        "std" => "400i",
+                        "type" => "text",
+    );
 
     $options[] = array( 'name' => "H1 Style",
                         'desc' => "Change the h1 style",
@@ -226,7 +240,6 @@ function aletheme_get_options() {
 	$options[] = array( "name" => "Advanced Settings",
 						"type" => "heading");
 
-	
 	$options[] = array( "name" => "Google Analytics",
 						"desc" => "Please insert your Google Analytics code here. Example: <strong>UA-22231623-1</strong>",
 						"id" => "ale_ga",
@@ -261,6 +274,21 @@ function aletheme_get_options() {
                             'image_2' => $imagepath.'/2cl.png',
                             'image_3' => $imagepath.'/2cr.png', ),
         );
+
+    $options[] = array( "name" => "Google Maps",
+                        "type" => "heading");
+
+    $options[] = array( "name" => "Maps Icon",
+                        "desc" => "Please upload the map icon",
+                        "id" => "ale_maps_icon",
+                        "std" => "",
+                        "type" => "upload");
+
+    $options[] = array( "name" => "Maps Style",
+                        "desc" => "Please insert the map style from Snazzy maps",
+                        "id" => "ale_maps_style",
+                        "std" => "",
+                        "type" => "text");
 	
 	return $options;
 }
