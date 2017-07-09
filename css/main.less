@@ -767,3 +767,103 @@
     z-index: 99;
   }
 }
+.gallery_page {
+  .gallery_post {
+    display: inline-block;
+    float: left;
+    margin: 0 20px 20px 0;
+    position: relative;
+    .rounded(2px);
+    overflow: hidden;
+    transition: all 300ms ease-in-out;
+    &:hover {
+      .mask {
+        opacity: 1;
+        transition: all 300ms ease-in-out;
+      }
+    }
+    .mask {
+      opacity: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(127,66,88,.6);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 300ms ease-in-out;
+      .arrow {
+        color: #fff;
+        width: 70px;
+        height: 70px;
+        font-size: 20px;
+        display: block;
+        background: #7F4258;
+        line-height: 70px;
+        .rounded(50%);
+      }
+    }
+    &:nth-last-child(1), &:nth-last-child(3), &:nth-last-child(6), &:nth-last-child(10) {
+      margin-right: 0;
+    }
+  }
+}
+
+
+/* PAGINATION STYLES */
+.pagination {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  color: #7F4258;
+  text-align: center;
+  margin: 70px 0;
+  .left_arrow, .paginate_items, .right_arrow {
+    display: inline-block;
+  }
+  .left_arrow, .right_arrow {
+    color: #b2b2b2;
+    font-size: 24px;
+    margin: 0 80px;
+    a {
+      color: inherit;
+      transition: all 300ms ease-in-out;
+      &:hover {
+        opacity: .7;
+        transition: all 300ms ease-in-out;
+      }
+    }
+  }
+  .paginate_items {
+    .page-numbers {
+      display: inline-block;
+      li {
+        display: inline-block;
+        height: 32px;
+        line-height: 32px;
+        a {
+          margin-right: 12px;
+          margin-left: 12px;
+          color: inherit;
+          transition: all 300ms ease-in-out;
+          &:hover {
+            opacity: .7;
+            transition: all 300ms ease-in-out;
+          }
+        }
+        span.current {
+          color: #fff;
+          width: 32px;
+          height: 32px;
+          background-color: #7F4258;
+          .rounded(100%);
+          display: block;
+          line-height: 32px;
+
+        }
+      }
+    }
+
+  }
+}

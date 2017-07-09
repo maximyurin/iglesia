@@ -179,10 +179,11 @@ function ale_page_links() {
 		'format' => '',
 		'total' => $wp_query->max_num_pages,
 		'current' => $current,
-		'show_all' => true,
+		'show_all' => false,
 		'type' => 'list',
-		'next_text' => 'Следующие посты',
-		'prev_text' => 'Предыдущие посты'
+		'next_text' => '<i class="fa fa-angle-right" aria-hidden="true"></i>',
+		'prev_text' => '<i class="fa fa-angle-left" aria-hidden="true"></i>',
+		'prev_next' => false
 		);
  
 	if( $wp_rewrite->using_permalinks() )
