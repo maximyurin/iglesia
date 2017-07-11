@@ -1,9 +1,9 @@
 <?php get_header(); ?>
     <!-- Content -->
-    <div class="container contacts">
+    <div class="container contacts cf">
             <div class="wrapper">
                 <h2 class="page_title" ><?php _e('Gallery', 'aletheme') ?></h2>
-                <div class="page_content gallery_page cf">
+                <div class="page_content gallery_page">
                     <?php
                     $i = 0;
                     if (have_posts()) : while (have_posts()) : the_post(); ?>

@@ -811,7 +811,6 @@
   }
 }
 
-
 /* PAGINATION STYLES */
 .pagination {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -866,4 +865,95 @@
     }
 
   }
+}
+
+/* SINGLE GALLERY PAGE*/
+.single_gallery, .single_blog {
+  h2.post_title {
+    color: #000;
+    font-size: 46px;
+    text-transform: none;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .excerpt {
+    color: #b3b3b3;
+    font-size: 12px;
+    margin-bottom: 30px;
+    p {
+      color: inherit;
+      font-size: inherit;
+      line-height: 24px;
+      text-align: center;
+    }
+  }
+  .post_info {
+    color: #000;
+    font-size: 12px;
+    .author {
+      a {
+        color: inherit;
+      }
+      i {
+        color: #ffefa7;
+        font-size: 18px;
+        margin-right: 10px;
+      }
+      display: inline-block;
+      margin-left: 15px;
+      margin-right: 15px;
+    }
+    .data {
+      display: inline-block;
+      margin-left: 15px;
+      margin-right: 15px;
+      i {
+        color: #ffefa7;
+        font-size: 18px;
+        margin-right: 10px;
+      }
+    }
+    margin-bottom: 40px;
+  }
+  .portfolioslider {
+    margin-bottom: 60px;
+    .flex-prev {
+      display: block;
+      position: absolute;
+      left: 50%;
+      top: 100%;
+      margin-left: -40px;
+      margin-top: -40px;
+      width: 40px;
+      height: 40px;
+      background-color: rgba(0,0,0,.5);
+      text-align: center;
+      color: #fff;
+      font-size: 22px;
+      line-height: 40px;
+    }
+    .flex-next {
+      display: block;
+      position: absolute;
+      left: 50%;
+      top: 100%;
+      margin-top: -40px;
+      width: 40px;
+      height: 40px;
+      background-color: rgba(0,0,0,.5);
+      text-align: center;
+      color: #fff;
+      font-size: 22px;
+      line-height: 40px;
+    }
+  }
+  .post_content {
+    margin: 0 170px;
+  }
+}
+
+.inner_wrapper {
+  padding: 0 120px;
+  text-align: center;
 }
